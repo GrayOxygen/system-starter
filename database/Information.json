@@ -1,0 +1,14 @@
+{ 
+    "_id" : "5661297160b2c83c1bd3282b", 
+    "deviceId" : "", 
+    "title" : "测试", 
+    "infoType" : "PUBLISHINFO", 
+    "type" : "1", 
+    "iconUrl" : "guangdong/info/icon/info_1449208177191.jpg", 
+    "imgUrl" : "guangdong/info/image/info_1449208177666.jpg", 
+    "iosUrl" : "te.com", 
+    "androidUrl" : "hao.com", 
+    "content" : "测试上传的图片应该在dev上", 
+    "orderNum" : NumberInt(1), 
+    "ctime" : ISODate("2015-12-04T05:49:37.190+0000")
+}

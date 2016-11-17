@@ -1,0 +1,387 @@
+{ 
+    "_id" : "5632d03500364857060e7349", 
+    "treeCode" : "1", 
+    "name" : "广东省", 
+    "remark" : "省公司", 
+    "level" : NumberInt(1), 
+    "text" : "广东省"
+}
+{ 
+    "_id" : "5632d03500364857060e734a", 
+    "treeCode" : "11000001", 
+    "parentId" : "5632d03500364857060e7349", 
+    "name" : "广州市", 
+    "remark" : "", 
+    "level" : NumberInt(2), 
+    "parentTreeCode" : "1", 
+    "text" : "广州市"
+}
+{ 
+    "_id" : "5632d03500364857060e734b", 
+    "treeCode" : "11000002", 
+    "parentId" : "5632d18a00364857060e737e", 
+    "name" : "深圳市", 
+    "remark" : "", 
+    "level" : NumberInt(2), 
+    "parentTreeCode" : "1", 
+    "text" : "深圳市"
+}
+{ 
+    "_id" : "5632d03500364857060e734c", 
+    "treeCode" : "11000003", 
+    "parentId" : "566049b500361a79d2231857", 
+    "name" : "珠海市", 
+    "remark" : "", 
+    "level" : NumberInt(2), 
+    "parentTreeCode" : "1", 
+    "text" : "珠海市"
+}
+{ 
+    "_id" : "5632d03500364857060e734d", 
+    "treeCode" : "11000004", 
+    "parentId" : "5632d03500364857060e734c", 
+    "name" : "汕头市", 
+    "remark" : "", 
+    "level" : NumberInt(2), 
+    "parentTreeCode" : "1", 
+    "text" : "汕头市"
+}
+{ 
+    "_id" : "5632d03500364857060e734e", 
+    "treeCode" : "11000005", 
+    "parentId" : "5632d03500364857060e734d", 
+    "name" : "韶关市", 
+    "remark" : "", 
+    "level" : NumberInt(2), 
+    "parentTreeCode" : "1", 
+    "text" : "韶关市"
+}
+{ 
+    "_id" : "5632d03500364857060e734f", 
+    "treeCode" : "11000006", 
+    "parentId" : "5632d03500364857060e734e", 
+    "name" : "佛山市", 
+    "remark" : "", 
+    "level" : NumberInt(2), 
+    "parentTreeCode" : "1", 
+    "text" : "佛山市"
+}
+{ 
+    "_id" : "5632d03500364857060e7350", 
+    "treeCode" : "11000007", 
+    "parentId" : "5632d03500364857060e734f", 
+    "name" : "江门市", 
+    "remark" : "", 
+    "level" : NumberInt(2), 
+    "parentTreeCode" : "1", 
+    "text" : "江门市"
+}
+{ 
+    "_id" : "5632d03500364857060e7351", 
+    "treeCode" : "11000008", 
+    "parentId" : "5632d03500364857060e7350", 
+    "name" : "湛江市", 
+    "remark" : "", 
+    "level" : NumberInt(2), 
+    "parentTreeCode" : "1", 
+    "text" : "湛江市"
+}
+{ 
+    "_id" : "5632d03500364857060e7352", 
+    "treeCode" : "11000009", 
+    "parentId" : "5632d03500364857060e7351", 
+    "name" : "茂名市", 
+    "remark" : "", 
+    "level" : NumberInt(2), 
+    "parentTreeCode" : "1", 
+    "text" : "茂名市"
+}
+{ 
+    "_id" : "5632d03500364857060e7353", 
+    "treeCode" : "11000010", 
+    "parentId" : "5632d03500364857060e7352", 
+    "name" : "肇庆市", 
+    "remark" : "", 
+    "level" : NumberInt(2), 
+    "parentTreeCode" : "1", 
+    "text" : "肇庆市"
+}
+{ 
+    "_id" : "5632d03500364857060e7354", 
+    "treeCode" : "11000011", 
+    "parentId" : "5632d03500364857060e7353", 
+    "name" : "惠州市", 
+    "remark" : "", 
+    "level" : NumberInt(2), 
+    "parentTreeCode" : "1", 
+    "text" : "惠州市"
+}
+{ 
+    "_id" : "5632d03500364857060e7355", 
+    "treeCode" : "11000012", 
+    "parentId" : "5632d03500364857060e7354", 
+    "name" : "梅州市", 
+    "remark" : "", 
+    "level" : NumberInt(2), 
+    "parentTreeCode" : "1", 
+    "text" : "梅州市"
+}
+{ 
+    "_id" : "5632d03500364857060e7356", 
+    "treeCode" : "11000013", 
+    "parentId" : "5632d03500364857060e7355", 
+    "name" : "汕尾市", 
+    "remark" : "", 
+    "level" : NumberInt(2), 
+    "parentTreeCode" : "1", 
+    "text" : "汕尾市"
+}
+{ 
+    "_id" : "5632d03500364857060e7357", 
+    "treeCode" : "11000014", 
+    "parentId" : "5632d03500364857060e7356", 
+    "name" : "河源市", 
+    "remark" : "", 
+    "level" : NumberInt(2), 
+    "parentTreeCode" : "1", 
+    "text" : "河源市"
+}
+{ 
+    "_id" : "5632d03500364857060e7358", 
+    "treeCode" : "11000015", 
+    "parentId" : "5632d03500364857060e7357", 
+    "name" : "阳江市", 
+    "remark" : "", 
+    "level" : NumberInt(2), 
+    "parentTreeCode" : "1", 
+    "text" : "阳江市"
+}
+{ 
+    "_id" : "5632d03500364857060e7359", 
+    "treeCode" : "11000016", 
+    "parentId" : "5632d03500364857060e7358", 
+    "name" : "清远市", 
+    "remark" : "", 
+    "level" : NumberInt(2), 
+    "parentTreeCode" : "1", 
+    "text" : "清远市"
+}
+{ 
+    "_id" : "5632d03500364857060e735a", 
+    "treeCode" : "11000017", 
+    "parentId" : "5632d03500364857060e7359", 
+    "name" : "东莞市", 
+    "remark" : "", 
+    "level" : NumberInt(2), 
+    "parentTreeCode" : "1", 
+    "text" : "东莞市"
+}
+{ 
+    "_id" : "5632d03500364857060e735b", 
+    "treeCode" : "11000018", 
+    "parentId" : "5633024d0036547bec44cd90", 
+    "name" : "中山市", 
+    "remark" : "", 
+    "level" : NumberInt(2), 
+    "parentTreeCode" : "1", 
+    "text" : "中山市"
+}
+{ 
+    "_id" : "5632d03500364857060e735c", 
+    "treeCode" : "11000019", 
+    "parentId" : "5632d03500364857060e735b", 
+    "name" : "潮州市", 
+    "remark" : "", 
+    "level" : NumberInt(2), 
+    "parentTreeCode" : "1", 
+    "text" : "潮州市"
+}
+{ 
+    "_id" : "5632d03500364857060e735d", 
+    "treeCode" : "11000020", 
+    "parentId" : "5632d03500364857060e735c", 
+    "name" : "揭阳市", 
+    "remark" : "", 
+    "level" : NumberInt(2), 
+    "parentTreeCode" : "1", 
+    "text" : "揭阳市"
+}
+{ 
+    "_id" : "5632d03500364857060e735e", 
+    "treeCode" : "11000021", 
+    "parentId" : "5632d03500364857060e735d", 
+    "name" : "云浮市", 
+    "remark" : "", 
+    "level" : NumberInt(2), 
+    "parentTreeCode" : "1", 
+    "text" : "云浮市"
+}
+{ 
+    "_id" : "5632d18a00364857060e7373", 
+    "treeCode" : "110000011000001", 
+    "parentId" : "5632d03500364857060e734a", 
+    "name" : "越秀区", 
+    "remark" : "", 
+    "level" : NumberInt(3), 
+    "parentTreeCode" : "11000001", 
+    "text" : "越秀区"
+}
+{ 
+    "_id" : "5632d18a00364857060e7374", 
+    "treeCode" : "110000011000002", 
+    "parentId" : "5633089d0036321140566d78", 
+    "name" : "海珠区", 
+    "remark" : "", 
+    "level" : NumberInt(3), 
+    "parentTreeCode" : "11000001", 
+    "text" : "海珠区"
+}
+{ 
+    "_id" : "5632d18a00364857060e7375", 
+    "treeCode" : "110000011000003", 
+    "parentId" : "5632d18a00364857060e7374", 
+    "name" : "荔湾区", 
+    "remark" : "", 
+    "level" : NumberInt(3), 
+    "parentTreeCode" : "11000001", 
+    "text" : "荔湾区"
+}
+{ 
+    "_id" : "5632d18a00364857060e7376", 
+    "treeCode" : "110000011000004", 
+    "parentId" : "5632d18a00364857060e7375", 
+    "name" : "天河区", 
+    "remark" : "", 
+    "level" : NumberInt(3), 
+    "parentTreeCode" : "11000001", 
+    "text" : "天河区"
+}
+{ 
+    "_id" : "5632d18a00364857060e7377", 
+    "treeCode" : "110000011000005", 
+    "parentId" : "5632d18a00364857060e7376", 
+    "name" : "白云区", 
+    "remark" : "", 
+    "level" : NumberInt(3), 
+    "parentTreeCode" : "11000001", 
+    "text" : "白云区"
+}
+{ 
+    "_id" : "5632d18a00364857060e7378", 
+    "treeCode" : "110000011000006", 
+    "parentId" : "5632d18a00364857060e7377", 
+    "name" : "黄埔区", 
+    "remark" : "", 
+    "level" : NumberInt(3), 
+    "parentTreeCode" : "11000001", 
+    "text" : "黄埔区"
+}
+{ 
+    "_id" : "5632d18a00364857060e7379", 
+    "treeCode" : "110000011000007", 
+    "parentId" : "5632d18a00364857060e7378", 
+    "name" : "花都区", 
+    "remark" : "", 
+    "level" : NumberInt(3), 
+    "parentTreeCode" : "11000001", 
+    "text" : "花都区"
+}
+{ 
+    "_id" : "5632d18a00364857060e737a", 
+    "treeCode" : "110000011000008", 
+    "parentId" : "5632d18a00364857060e7379", 
+    "name" : "番禺区", 
+    "remark" : "", 
+    "level" : NumberInt(3), 
+    "parentTreeCode" : "11000001", 
+    "text" : "番禺区"
+}
+{ 
+    "_id" : "5632d18a00364857060e737b", 
+    "treeCode" : "110000011000009", 
+    "parentId" : "5632d18a00364857060e737a", 
+    "name" : "萝岗区", 
+    "remark" : "", 
+    "level" : NumberInt(3), 
+    "parentTreeCode" : "11000001", 
+    "text" : "萝岗区"
+}
+{ 
+    "_id" : "5632d18a00364857060e737c", 
+    "treeCode" : "110000011000010", 
+    "parentId" : "5632d18a00364857060e737b", 
+    "name" : "南沙区", 
+    "remark" : "", 
+    "level" : NumberInt(3), 
+    "parentTreeCode" : "11000001", 
+    "text" : "南沙区"
+}
+{ 
+    "_id" : "5632d18a00364857060e737d", 
+    "treeCode" : "110000011000011", 
+    "parentId" : "5632d18a00364857060e737c", 
+    "name" : "从化市", 
+    "remark" : "", 
+    "level" : NumberInt(3), 
+    "parentTreeCode" : "11000001", 
+    "text" : "从化市"
+}
+{ 
+    "_id" : "5632d18a00364857060e737e", 
+    "treeCode" : "110000011000012", 
+    "parentId" : "5632d18a00364857060e737d", 
+    "name" : "增城市", 
+    "remark" : "", 
+    "level" : NumberInt(3), 
+    "parentTreeCode" : "11000001", 
+    "text" : "增城市"
+}
+{ 
+    "_id" : "5633024d0036547bec44cd90", 
+    "treeCode" : "110000171000001", 
+    "parentId" : "5632d03500364857060e735a", 
+    "name" : "沙田镇", 
+    "remark" : "", 
+    "level" : NumberInt(3), 
+    "parentTreeCode" : "11000017", 
+    "text" : "沙田镇"
+}
+{ 
+    "_id" : "5633089d0036321140566d78", 
+    "treeCode" : "1100000110000011000001", 
+    "parentId" : "5632d18a00364857060e7373", 
+    "name" : "中山二路营业厅", 
+    "remark" : "", 
+    "level" : NumberInt(4), 
+    "parentTreeCode" : "110000011000001", 
+    "text" : "中山二路营业厅"
+}
+{ 
+    "_id" : "566047940036367c267168fb", 
+    "treeCode" : "110000021000001", 
+    "parentId" : "5632d03500364857060e734b", 
+    "name" : "南山区", 
+    "remark" : "", 
+    "level" : NumberInt(3), 
+    "parentTreeCode" : "11000002", 
+    "text" : "南山区"
+}
+{ 
+    "_id" : "566047940036367c267168fc", 
+    "treeCode" : "1100000210000011000001", 
+    "parentId" : "566047940036367c267168fb", 
+    "name" : "蛇口营业厅", 
+    "remark" : "", 
+    "level" : NumberInt(4), 
+    "parentTreeCode" : "110000021000001", 
+    "text" : "蛇口营业厅"
+}
+{ 
+    "_id" : "566049b500361a79d2231857", 
+    "treeCode" : "110000021000003", 
+    "parentId" : "566047940036367c267168fc", 
+    "name" : "龙华区", 
+    "remark" : "", 
+    "level" : NumberInt(3), 
+    "parentTreeCode" : "11000002"
+}

@@ -1,0 +1,55 @@
+{ 
+    "_id" : "55cd93e13ade09e3bec2cdce", 
+    "className" : "com.saysth.admin.entity.IBeaconWxView", 
+    "ibeaconId" : "55b865e91cef6a40796831b8", 
+    "wxViewId" : "55b87d001ceffca14b026b8e", 
+    "deviceType" : "1", 
+    "branchId" : "55adace5e4b04844a07b9c5b"
+}
+{ 
+    "_id" : "55cd93e23ade09e3bec2cdcf", 
+    "className" : "com.saysth.admin.entity.IBeaconWxView", 
+    "ibeaconId" : "55cb20743adef7d998a22101", 
+    "wxViewId" : "55b87d001ceffca14b026b8e", 
+    "deviceType" : "1", 
+    "branchId" : "55adace5e4b04844a07b9c5b"
+}
+{ 
+    "_id" : "55cd93ed3ade09e3bec2cdd0", 
+    "className" : "com.saysth.admin.entity.IBeaconWxView", 
+    "ibeaconId" : "55dd29a93adeb094f57771d3", 
+    "wxViewId" : "testIDshoudongjiade", 
+    "deviceType" : "1", 
+    "branchId" : "55adace5e4b04844a07b9c5b"
+}
+{ 
+    "_id" : "55f69a9500366cfffb016a23", 
+    "className" : "com.saysth.admin.entity.IBeaconWxView", 
+    "ibeaconId" : "55dd29a13adeb094f57771ac", 
+    "wxViewId" : "55b87d001ceffca14b026b8e", 
+    "deviceType" : "1"
+}
+{ 
+    "_id" : "55f6af1400367695d0566159", 
+    "className" : "com.saysth.admin.entity.IBeaconWxView", 
+    "ibeaconId" : "55dd297a3adeb094f57770f2", 
+    "wxViewId" : "55f6aeaf00367695d0566158", 
+    "deviceType" : "1", 
+    "branchId" : "55f6af9f0036243515c01a42"
+}
+{ 
+    "_id" : "55f7fbc200330cb7790e6e80", 
+    "className" : "com.saysth.admin.entity.IBeaconWxView", 
+    "ibeaconId" : "55dd2ad63ade25f640d30943", 
+    "wxViewId" : "55f7747300367a526f4c885c", 
+    "branchId" : "55adad95e4b04844a07b9c5f", 
+    "deviceType" : "3"
+}
+{ 
+    "_id" : "55f7fbc200360eb9795e6e83", 
+    "className" : "com.saysth.admin.entity.IBeaconWxView", 
+    "ibeaconId" : "55dd297a3adeb094f57770ef", 
+    "wxViewId" : "55f7fb3000360eb9795e6e82", 
+    "branchId" : "55adad95e4b04844a07b9c5f", 
+    "deviceType" : "1"
+}

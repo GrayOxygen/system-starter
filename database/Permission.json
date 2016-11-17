@@ -1,0 +1,56 @@
+{ 
+    "_id" : ObjectId("58149e0d2418b918be6029b9"), 
+    "_class" : "com.shineoxygen.work.admin.model.Permission", 
+    "name" : "主页面", 
+    "url" : "admin:index", 
+    "showOrder" : NumberInt(1), 
+    "buildin" : true
+}
+{ 
+    "_id" : ObjectId("58149e0e2418b918be6029ba"), 
+    "_class" : "com.shineoxygen.work.admin.model.Permission", 
+    "name" : "用户管理", 
+    "url" : "admin:adminUsers:*", 
+    "buildin" : true, 
+    "showOrder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58149e0e2418b918be6029bb"), 
+    "_class" : "com.shineoxygen.work.admin.model.Permission", 
+    "name" : "用户管理-查看用户", 
+    "url" : "admin:adminUsers:read", 
+    "buildin" : true, 
+    "showOrder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58149e0e2418b918be6029bc"), 
+    "_class" : "com.shineoxygen.work.admin.model.Permission", 
+    "name" : "角色管理", 
+    "url" : "admin:roles:*", 
+    "buildin" : true, 
+    "showOrder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58149e0e2418b918be6029bd"), 
+    "_class" : "com.shineoxygen.work.admin.model.Permission", 
+    "name" : "权限菜单管理", 
+    "url" : "admin:permissions:*", 
+    "buildin" : true, 
+    "showOrder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5819f2cac7ca108bd6d8625d"), 
+    "_class" : "com.shineoxygen.work.admin.model.Permission", 
+    "name" : "角色删除", 
+    "url" : "admin:roles:delete", 
+    "buildin" : true, 
+    "showOrder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5819f367c7ca108bd6d8625e"), 
+    "_class" : "com.shineoxygen.work.admin.model.Permission", 
+    "name" : "修改密码", 
+    "url" : "admin:adminUsers:updatePwd", 
+    "buildin" : true, 
+    "showOrder" : NumberInt(0)
+}

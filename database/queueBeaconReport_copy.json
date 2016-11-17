@@ -1,0 +1,187 @@
+{ 
+    "_id" : "55ee83f100360a89486cacbc", 
+    "shakePeopleNum" : "1", 
+    "shakeNum" : "1", 
+    "clickPeopleNum" : "1", 
+    "clickNum" : "1", 
+    "reportTime" : ISODate("2015-08-26T16:00:00.000+0000"), 
+    "userDefinedName" : "测试7", 
+    "remark" : "testComment", 
+    "deviceId" : "1373314"
+}
+{ 
+    "_id" : "55ee841000360a89486cacbd", 
+    "shakePeopleNum" : "7", 
+    "shakeNum" : "37", 
+    "clickPeopleNum" : "4", 
+    "clickNum" : "10", 
+    "reportTime" : ISODate("2015-07-20T16:00:00.000+0000"), 
+    "userDefinedName" : "广州中山二路", 
+    "remark" : "广州中山二路", 
+    "deviceId" : "1055804"
+}
+{ 
+    "_id" : "55ee86a9003614f7899c330d", 
+    "shakePeopleNum" : "5", 
+    "shakeNum" : "23", 
+    "clickPeopleNum" : "2", 
+    "clickNum" : "5", 
+    "reportTime" : ISODate("2015-08-27T16:00:00.000+0000"), 
+    "userDefinedName" : "广州中山二路", 
+    "remark" : "广州中山二路", 
+    "deviceId" : "1055804"
+}
+{ 
+    "_id" : "55ee87020036855cabfb3aa3", 
+    "shakePeopleNum" : "2", 
+    "shakeNum" : "4", 
+    "clickPeopleNum" : "2", 
+    "clickNum" : "4", 
+    "reportTime" : ISODate("2015-08-18T16:00:00.000+0000"), 
+    "userDefinedName" : "广州中山二路", 
+    "remark" : "广州中山二路", 
+    "deviceId" : "1055804"
+}
+{ 
+    "_id" : "55ee87020036855cabfb3aa4", 
+    "shakePeopleNum" : "1", 
+    "shakeNum" : "1", 
+    "clickPeopleNum" : "1", 
+    "clickNum" : "2", 
+    "reportTime" : ISODate("2015-08-11T16:00:00.000+0000"), 
+    "userDefinedName" : "广州中山二路", 
+    "remark" : "广州中山二路", 
+    "deviceId" : "1055804"
+}
+{ 
+    "_id" : "55ee87030036855cabfb3aa5", 
+    "shakePeopleNum" : "1", 
+    "shakeNum" : "1", 
+    "clickPeopleNum" : "1", 
+    "clickNum" : "1", 
+    "reportTime" : ISODate("2015-09-01T16:00:00.000+0000"), 
+    "userDefinedName" : "测试7", 
+    "remark" : "testComment", 
+    "deviceId" : "1373314"
+}
+{ 
+    "_id" : "55ee87030036855cabfb3aa6", 
+    "shakePeopleNum" : "1", 
+    "shakeNum" : "2", 
+    "clickPeopleNum" : "0", 
+    "clickNum" : "0", 
+    "reportTime" : ISODate("2015-09-06T16:00:00.000+0000"), 
+    "userDefinedName" : "测试7", 
+    "remark" : "testComment", 
+    "deviceId" : "1373314"
+}
+{ 
+    "_id" : "55ee87080036855cabfb3aa7", 
+    "shakePeopleNum" : "1", 
+    "shakeNum" : "1", 
+    "clickPeopleNum" : "1", 
+    "clickNum" : "1", 
+    "reportTime" : ISODate("2015-08-26T16:00:00.000+0000"), 
+    "userDefinedName" : "测试信标", 
+    "remark" : "测试所用等待", 
+    "deviceId" : "1384478"
+}
+{ 
+    "_id" : "55ee87080036855cabfb3aa8", 
+    "shakePeopleNum" : "1", 
+    "shakeNum" : "1", 
+    "clickPeopleNum" : "1", 
+    "clickNum" : "1", 
+    "reportTime" : ISODate("2015-09-01T16:00:00.000+0000"), 
+    "userDefinedName" : "测试信标", 
+    "remark" : "测试所用等待", 
+    "deviceId" : "1384478"
+}
+{ 
+    "_id" : "55ee871a0036855cabfb3aa9", 
+    "shakePeopleNum" : "7", 
+    "shakeNum" : "42", 
+    "clickPeopleNum" : "1", 
+    "clickNum" : "2", 
+    "reportTime" : ISODate("2015-07-23T16:00:00.000+0000"), 
+    "userDefinedName" : "广州中山二路", 
+    "remark" : "广州中山二路", 
+    "deviceId" : "1055804"
+}
+{ 
+    "_id" : "55ee871a0036855cabfb3aaa", 
+    "shakePeopleNum" : "6", 
+    "shakeNum" : "24", 
+    "clickPeopleNum" : "1", 
+    "clickNum" : "1", 
+    "reportTime" : ISODate("2015-07-21T16:00:00.000+0000"), 
+    "userDefinedName" : "广州中山二路", 
+    "remark" : "广州中山二路", 
+    "deviceId" : "1055804"
+}
+{ 
+    "_id" : "55ee871a0036855cabfb3aab", 
+    "shakePeopleNum" : "4", 
+    "shakeNum" : "16", 
+    "clickPeopleNum" : "4", 
+    "clickNum" : "12", 
+    "reportTime" : ISODate("2015-07-26T16:00:00.000+0000"), 
+    "userDefinedName" : "广州中山二路", 
+    "remark" : "广州中山二路", 
+    "deviceId" : "1055804"
+}
+{ 
+    "_id" : "55ee871a0036855cabfb3aac", 
+    "shakePeopleNum" : "3", 
+    "shakeNum" : "16", 
+    "clickPeopleNum" : "2", 
+    "clickNum" : "6", 
+    "reportTime" : ISODate("2015-07-19T16:00:00.000+0000"), 
+    "userDefinedName" : "广州中山二路", 
+    "remark" : "广州中山二路", 
+    "deviceId" : "1055804"
+}
+{ 
+    "_id" : "55ee871a0036855cabfb3aad", 
+    "shakePeopleNum" : "2", 
+    "shakeNum" : "7", 
+    "clickPeopleNum" : "1", 
+    "clickNum" : "1", 
+    "reportTime" : ISODate("2015-08-06T16:00:00.000+0000"), 
+    "userDefinedName" : "广州中山二路", 
+    "remark" : "广州中山二路", 
+    "deviceId" : "1055804"
+}
+{ 
+    "_id" : "55ee871a0036855cabfb3aae", 
+    "shakePeopleNum" : "1", 
+    "shakeNum" : "1", 
+    "clickPeopleNum" : "1", 
+    "clickNum" : "2", 
+    "reportTime" : ISODate("2015-07-27T16:00:00.000+0000"), 
+    "userDefinedName" : "广州中山二路", 
+    "remark" : "广州中山二路", 
+    "deviceId" : "1055804"
+}
+{ 
+    "_id" : "55ee871a0036855cabfb3aaf", 
+    "shakePeopleNum" : "1", 
+    "shakeNum" : "2", 
+    "clickPeopleNum" : "1", 
+    "clickNum" : "2", 
+    "reportTime" : ISODate("2015-07-28T16:00:00.000+0000"), 
+    "userDefinedName" : "广州中山二路", 
+    "remark" : "广州中山二路", 
+    "deviceId" : "1055804"
+}
+{ 
+    "_id" : "55ee871a0036855cabfb3ab0", 
+    "shakePeopleNum" : "1", 
+    "shakeNum" : "1", 
+    "clickPeopleNum" : "1", 
+    "clickNum" : "2", 
+    "reportTime" : ISODate("2015-08-03T16:00:00.000+0000"), 
+    "userDefinedName" : "广州中山二路", 
+    "remark" : "广州中山二路", 
+    "deviceId" : "1055804"
+}

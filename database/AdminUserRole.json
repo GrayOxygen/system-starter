@@ -1,0 +1,98 @@
+{ 
+    "_id" : ObjectId("5814a70224187be1f19ff18a"), 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUserRole", 
+    "adminUserId" : "5814a391241869cb751f5bd3", 
+    "roleId" : "5814cb232418a5aac2a5f1b6"
+}
+{ 
+    "_id" : ObjectId("5819a1b5c7ca62d781c1473c"), 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUserRole", 
+    "adminUserId" : "5819a1b5c7ca62d781c1473b", 
+    "roleId" : "5814cb232418a5aac2a5f1b6", 
+    "deleted" : true
+}
+{ 
+    "_id" : ObjectId("5819a35bc7caa09f532e93d3"), 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUserRole", 
+    "adminUserId" : "5819a1b5c7ca62d781c1473b", 
+    "roleId" : "581987adc7ca85d9853f0518", 
+    "deleted" : true
+}
+{ 
+    "_id" : ObjectId("5819a35bc7caa09f532e93d4"), 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUserRole", 
+    "adminUserId" : "5819a1b5c7ca62d781c1473b", 
+    "roleId" : "5814cb232418a5aac2a5f1b6", 
+    "deleted" : true
+}
+{ 
+    "_id" : ObjectId("5819a57ac7ca84831a69a1b4"), 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUserRole", 
+    "adminUserId" : "5813196770c81a1673bb514c", 
+    "roleId" : "5814cb232418a5aac2a5f1b6", 
+    "deleted" : true
+}
+{ 
+    "_id" : ObjectId("5819e4bfc7ca450e023afda5"), 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUserRole", 
+    "adminUserId" : "5819e4bec7ca450e023afda4", 
+    "roleId" : "5814cb232418a5aac2a5f1b6"
+}
+{ 
+    "_id" : ObjectId("5819f523c7ca6d170b0fe56c"), 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUserRole", 
+    "adminUserId" : "0", 
+    "roleId" : "5814cb232418a5aac2a5f1b5", 
+    "deleted" : true
+}
+{ 
+    "_id" : ObjectId("5819f523c7ca6d170b0fe56d"), 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUserRole", 
+    "adminUserId" : "0", 
+    "roleId" : "581987adc7ca85d9853f0518", 
+    "deleted" : true
+}
+{ 
+    "_id" : ObjectId("5819f523c7ca6d170b0fe56e"), 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUserRole", 
+    "adminUserId" : "0", 
+    "roleId" : "5814cb232418a5aac2a5f1b6", 
+    "deleted" : true
+}
+{ 
+    "_id" : ObjectId("5819f573c7ca6d170b0fe56f"), 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUserRole", 
+    "adminUserId" : "0", 
+    "roleId" : "5814cb232418a5aac2a5f1b5"
+}
+{ 
+    "_id" : ObjectId("5819f573c7ca6d170b0fe570"), 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUserRole", 
+    "adminUserId" : "0", 
+    "roleId" : "581987adc7ca85d9853f0518"
+}
+{ 
+    "_id" : ObjectId("5819f573c7ca6d170b0fe571"), 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUserRole", 
+    "adminUserId" : "0", 
+    "roleId" : "5814cb232418a5aac2a5f1b6"
+}
+{ 
+    "_id" : ObjectId("581a048dc7ca156fd0431074"), 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUserRole", 
+    "adminUserId" : "581a048dc7ca156fd0431073", 
+    "roleId" : "5814cb232418a5aac2a5f1b6"
+}
+{ 
+    "_id" : ObjectId("581a04a8c7ca156fd0431076"), 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUserRole", 
+    "adminUserId" : "581a04a8c7ca156fd0431075", 
+    "roleId" : "581987adc7ca85d9853f0518", 
+    "deleted" : true
+}
+{ 
+    "_id" : ObjectId("581a04c7c7ca156fd0431077"), 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUserRole", 
+    "adminUserId" : "581a04a8c7ca156fd0431075", 
+    "roleId" : "581987adc7ca85d9853f0518"
+}

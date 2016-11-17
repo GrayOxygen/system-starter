@@ -1,0 +1,18 @@
+{ 
+    "_id" : "1", 
+    "_class" : "com.shineoxygen.work.temp.pojo.User", 
+    "name" : "wanghuiyang", 
+    "job" : "java developer111"
+}
+{ 
+    "_id" : "951c0ff6-b53b-4e40-95f2-d6665f55c279", 
+    "_class" : "com.shineoxygen.work.temp.pojo.User", 
+    "name" : "wanghuiyang", 
+    "job" : "library boss"
+}
+{ 
+    "_id" : ObjectId("58103d362cfa452929c2aa07"), 
+    "_class" : "com.shineoxygen.work.temp.pojo.User", 
+    "name" : "yangling", 
+    "job" : "hello"
+}

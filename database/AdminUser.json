@@ -1,0 +1,158 @@
+{ 
+    "_id" : "11", 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUser", 
+    "userName" : "yangling102222222222222士大夫撒地方士大夫阿斯顿发送到发送到发顺丰大是大非2222222222sdafsda2但是啊", 
+    "userStatus" : "NORMAL", 
+    "pwd" : "111111", 
+    "ctime" : ISODate("2016-10-27T16:14:34.826+0000")
+}
+{ 
+    "_id" : "13", 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUser", 
+    "userName" : "yangling12", 
+    "userStatus" : "NORMAL", 
+    "phoneNum" : "13288888888", 
+    "email" : "123@11.com", 
+    "pwd" : "cd8ab09058a1378bafaf95ec630ba9d5", 
+    "ctime" : ISODate("2016-10-28T08:48:42.808+0000")
+}
+{ 
+    "_id" : "15", 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUser", 
+    "userName" : "yangling14", 
+    "userStatus" : "NORMAL", 
+    "pwd" : "111111", 
+    "ctime" : ISODate("2016-10-27T16:14:35.992+0000")
+}
+{ 
+    "_id" : "17", 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUser", 
+    "userName" : "yangling16", 
+    "userStatus" : "NORMAL", 
+    "pwd" : "111111", 
+    "ctime" : ISODate("2016-10-27T16:14:35.995+0000")
+}
+{ 
+    "_id" : "49", 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUser", 
+    "userName" : "yangling48", 
+    "userStatus" : "NORMAL", 
+    "pwd" : "111111", 
+    "ctime" : ISODate("2016-10-27T16:14:36.026+0000")
+}
+{ 
+    "_id" : "51", 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUser", 
+    "userName" : "yangling50", 
+    "userStatus" : "NORMAL", 
+    "pwd" : "111111", 
+    "ctime" : ISODate("2016-10-27T16:14:36.028+0000")
+}
+{ 
+    "_id" : "53", 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUser", 
+    "userName" : "yangling52", 
+    "userStatus" : "NORMAL", 
+    "pwd" : "111111", 
+    "ctime" : ISODate("2016-10-27T16:14:36.029+0000")
+}
+{ 
+    "_id" : "55", 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUser", 
+    "userName" : "yangling54", 
+    "userStatus" : "NORMAL", 
+    "pwd" : "111111", 
+    "ctime" : ISODate("2016-10-27T16:14:36.030+0000")
+}
+{ 
+    "_id" : "57", 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUser", 
+    "userName" : "yangling56", 
+    "userStatus" : "NORMAL", 
+    "pwd" : "111111", 
+    "ctime" : ISODate("2016-10-27T16:14:36.031+0000")
+}
+{ 
+    "_id" : "59", 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUser", 
+    "userName" : "yangling58", 
+    "userStatus" : "NORMAL", 
+    "pwd" : "111111", 
+    "ctime" : ISODate("2016-10-27T16:14:36.033+0000")
+}
+{ 
+    "_id" : ObjectId("5812192d0206c235d3de28cb"), 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUser", 
+    "userName" : "tester", 
+    "userStatus" : "NORMAL", 
+    "phoneNum" : "13222222211", 
+    "email" : "123123@q.com", 
+    "pwd" : "f5bb0c8de146c67b44babbf4e6584cc0", 
+    "ctime" : ISODate("2016-10-27T15:11:41.255+0000")
+}
+{ 
+    "_id" : ObjectId("5812453002061e5ccb7a8be1"), 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUser", 
+    "userName" : "wang", 
+    "userStatus" : "NORMAL", 
+    "phoneNum" : "13265554444", 
+    "email" : "490750217@qq.com", 
+    "pwd" : "96e79218965eb72c92a549dd5a330112", 
+    "ctime" : ISODate("2016-10-27T18:19:54.688+0000"), 
+    "buildin" : true
+}
+{ 
+    "_id" : "0", 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUser", 
+    "userName" : "admin", 
+    "userStatus" : "NORMAL", 
+    "phoneNum" : "13266665543", 
+    "email" : "12223@11.com", 
+    "buildin" : false, 
+    "avatar" : "http://og3nodshf.bkt.clouddn.com/img/67f02e4db00f4952971dd0f612865994.jpg", 
+    "pwd" : "96e79218965eb72c92a549dd5a330112", 
+    "ctime" : ISODate("2016-11-02T14:17:23.372+0000")
+}
+{ 
+    "_id" : ObjectId("5814a391241869cb751f5bd3"), 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUser", 
+    "userName" : "readPerm", 
+    "userStatus" : "NORMAL", 
+    "buildin" : true, 
+    "pwd" : "4297f44b13955235245b2497399d7a93", 
+    "ctime" : ISODate("2016-10-29T13:26:41.599+0000")
+}
+{ 
+    "_id" : ObjectId("5819e4bec7ca450e023afda4"), 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUser", 
+    "userName" : "test", 
+    "userStatus" : "NORMAL", 
+    "phoneNum" : "13265581751", 
+    "email" : "49075021@qq.com", 
+    "buildin" : false, 
+    "pwd" : "96e79218965eb72c92a549dd5a330112", 
+    "ctime" : ISODate("2016-11-02T13:06:06.866+0000")
+}
+{ 
+    "_id" : ObjectId("581a048dc7ca156fd0431073"), 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUser", 
+    "userName" : "zhuyemian", 
+    "userStatus" : "NORMAL", 
+    "phoneNum" : "13222221346", 
+    "email" : "123@qq.com", 
+    "buildin" : false, 
+    "pwd" : "96e79218965eb72c92a549dd5a330112", 
+    "ctime" : ISODate("2016-11-02T15:21:49.541+0000")
+}
+{ 
+    "_id" : ObjectId("581a04a8c7ca156fd0431075"), 
+    "_class" : "com.shineoxygen.work.admin.model.AdminUser", 
+    "userName" : "putong", 
+    "userStatus" : "NORMAL", 
+    "phoneNum" : "18555542391", 
+    "email" : "789@qq.com", 
+    "buildin" : false, 
+    "avatar" : "http://og3nodshf.bkt.clouddn.com/img/d597ab6845af4e96ab13d78493a7688c.jpg", 
+    "pwd" : "96e79218965eb72c92a549dd5a330112", 
+    "ctime" : ISODate("2016-11-02T15:22:47.614+0000")
+}

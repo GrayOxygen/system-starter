@@ -1,0 +1,121 @@
+{ 
+    "_id" : "55adae0ae4b04844a07b9c63", 
+    "username" : "MadSoul", 
+    "openId" : "oBBmBjsRH6jbbqZvnr5N2kUSCk-M", 
+    "ctime" : ISODate("2015-07-21T02:27:22.482+0000")
+}
+{ 
+    "_id" : "55adb473e4b0427e339ab44e", 
+    "username" : "突然很想飞", 
+    "mobile" : "O1Oxdj1jdOb", 
+    "openId" : "oBBmBjoCvfmrMB6lbU0jFi75gBgE", 
+    "ctime" : ISODate("2015-07-21T02:54:43.848+0000")
+}
+{ 
+    "_id" : "55adcee0e4b0cd1df75cdbe6", 
+    "openId" : "oBBmBjnQ_3Y52PjiWivjcmPepD7c", 
+    "ctime" : ISODate("2015-07-21T04:47:28.993+0000")
+}
+{ 
+    "_id" : "55adf8f1e4b005445959dc82", 
+    "username" : "Kelvin", 
+    "openId" : "oBBmBjgkTJ_kw5cVhQCDTh2p2Itc", 
+    "ctime" : ISODate("2015-07-21T07:46:57.365+0000")
+}
+{ 
+    "_id" : "55ae139ae4b022485fa2ecb9", 
+    "openId" : "oBBmBjk28344MI0mB0lvW78HAc3c", 
+    "ctime" : ISODate("2015-07-21T09:40:42.712+0000")
+}
+{ 
+    "_id" : "55ae139ae4b022485fa2ecba", 
+    "openId" : "oBBmBjk28344MI0mB0lvW78HAc3c", 
+    "ctime" : ISODate("2015-07-21T09:40:42.812+0000")
+}
+{ 
+    "_id" : "55af111ae4b01ab3928ec84c", 
+    "openId" : "oBBmBjiATUr-f_uOhNqgGWL1HRcY", 
+    "ctime" : ISODate("2015-07-22T03:42:18.064+0000")
+}
+{ 
+    "_id" : "55b5aa37e4b0025935f2985b", 
+    "username" : "花卷", 
+    "mobile" : "O==bjjYYYO1", 
+    "avatar" : "http://wx.qlogo.cn/mmopen/2WLewJv5ia8sID8HXhAETJNRKDc1LJZgibiaY2MYFAULjd7PwvGbyecXzgnfCicxa38HJUxzichhuvUntIpIRyP0lYKOUZHRMZNoM/0", 
+    "addr" : "5", 
+    "openId" : "oBBmBjueMjma9Gxt-633TQBLn0DE", 
+    "ctime" : ISODate("2015-07-27T03:49:11.342+0000")
+}
+{ 
+    "_id" : "55b5ae23e4b0025935f29d98", 
+    "username" : "杨旭", 
+    "mobile" : "O1YxxO1Y1S=", 
+    "avatar" : "http://wx.qlogo.cn/mmopen/dxEty8QyrKSUqcicIOUMosXMdbZAMDuOo9nwodRSczcygnhaEx8vMuVFJHJQeQb6DYmqKxDCclLibLXNrpibfAgOm0YX0cAHAhT/0", 
+    "addr" : "6", 
+    "openId" : "oBBmBjiI7T6DsQ6Ik3jpWFl2mojk", 
+    "ctime" : ISODate("2015-07-27T04:05:55.324+0000")
+}
+{ 
+    "_id" : "55b5c629e4b0025935f2bd9e", 
+    "openId" : "oBBmBjmXJzsQGRTS0AnGdTS9hNXs", 
+    "ctime" : ISODate("2015-07-27T05:48:25.045+0000")
+}
+{ 
+    "_id" : "55d3ed83e4b06502ed3ba164", 
+    "username" : "阿  癫", 
+    "mobile" : "O1YxY=Y1Ycj", 
+    "addr" : "5", 
+    "openId" : "oBBmBjv8Hu8op6JgklbqKrhCTCAs", 
+    "ctime" : ISODate("2015-08-19T02:44:19.668+0000")
+}
+{ 
+    "_id" : "55d46322e4b032bbed9810e5", 
+    "openId" : "oBBmBjitwMaRv4lv-2oXKR2dgel8", 
+    "ctime" : ISODate("2015-08-19T11:06:10.084+0000")
+}
+{ 
+    "_id" : "55d464dce4b032bbed9810e6", 
+    "username" : "华蓉", 
+    "openId" : "oBBmBjqfYwV3SmPXIypZAxhw_B7U", 
+    "ctime" : ISODate("2015-08-19T11:13:32.696+0000")
+}
+{ 
+    "_id" : "55d55e48e4b00692d2c13180", 
+    "openId" : "oBBmBjh36hpxxOTzFW2vu12jVwa4", 
+    "ctime" : ISODate("2015-08-20T04:57:44.279+0000")
+}
+{ 
+    "_id" : "55d58965e4b03ca891965af0", 
+    "username" : "大嘴", 
+    "mobile" : "O==bjjY=1SO", 
+    "avatar" : "http://wx.qlogo.cn/mmopen/jRoggJ2RF3CCBH99afxxg5yNicwB13lx9P0HkKwC6PXiaplKYxsXykQJGFThtBp8tpka0UGNdlYPraPjw5FQbyP0DPqyqkYk3c/0", 
+    "addr" : "5", 
+    "openId" : "oBBmBjvn0fFEq5cMeOlJQ4dIpFeQ", 
+    "ctime" : ISODate("2015-08-20T08:01:41.078+0000")
+}
+{ 
+    "_id" : "55d58cb6e4b03ca891965af7", 
+    "username" : "静水流深", 
+    "mobile" : "O==jx===xSS", 
+    "addr" : "6", 
+    "openId" : "oBBmBjujfoT5zprTlz0BL5Y-pOq8", 
+    "ctime" : ISODate("2015-08-20T08:15:50.803+0000")
+}
+{ 
+    "_id" : "55d5904ce4b03ca891965afc", 
+    "username" : "曹亮", 
+    "mobile" : "O==jx==dxxx", 
+    "avatar" : "http://wx.qlogo.cn/mmopen/2WLewJv5ia8ts9BaUsb5MBDxxt1SOhdJZuYGmAJF3aqDouibJLMuicmLVRFhvvEDAP8Zyv5QBBSXa5y019l2gfy0ZvVovoiblTib2/0", 
+    "addr" : "6", 
+    "openId" : "oBBmBjkrCBtXX0uUSY-5xR2jC4BQ", 
+    "ctime" : ISODate("2015-08-20T08:31:08.888+0000")
+}
+{ 
+    "_id" : "55d6de1be4b0ac217fdcfbe1", 
+    "username" : "营", 
+    "mobile" : "O1Yx1c1x=x=", 
+    "avatar" : "http://wx.qlogo.cn/mmopen/60ruiawxzibMUFbP1D98lnb4Kseeqh38NOlACyvhMXzuYFXAPrBCMSibvaibXiasPOaucBaSkCUzickHkpeUktjs6yoziaGwLHjBKu7/0", 
+    "addr" : "6", 
+    "openId" : "oBBmBjrK1q419hJ52-FWt6M6SeSo", 
+    "ctime" : ISODate("2015-08-21T08:15:23.431+0000")
+}

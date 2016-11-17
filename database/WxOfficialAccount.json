@@ -1,0 +1,12 @@
+{ 
+    "_id" : "guangdongweixin", 
+    "name" : "广东电信", 
+    "appid" : "123", 
+    "devCode" : "gh_053fe7a40b0a", 
+    "qr" : "images/wx/wx_1437104211774.jpg", 
+    "mode" : "M", 
+    "fansNum" : NumberInt(0), 
+    "ctime" : ISODate("2015-07-27T03:18:48.674+0000"), 
+    "mtime" : ISODate("2015-07-27T03:18:48.680+0000"), 
+    "tempId" : "FaxCn7AV9lhaaV6FI0ThY9MYvKvhp51rdIIYIesR_6E"
+}

@@ -1,0 +1,60 @@
+{ 
+    "_id" : ObjectId("581a0408c7ca156fd0431069"), 
+    "_class" : "com.shineoxygen.work.admin.model.RolePermission", 
+    "roleId" : "5814cb232418a5aac2a5f1b5", 
+    "permissionId" : "58149e0d2418b918be6029b9"
+}
+{ 
+    "_id" : ObjectId("581a0408c7ca156fd043106a"), 
+    "_class" : "com.shineoxygen.work.admin.model.RolePermission", 
+    "roleId" : "5814cb232418a5aac2a5f1b5", 
+    "permissionId" : "5819f367c7ca108bd6d8625e"
+}
+{ 
+    "_id" : ObjectId("581a0408c7ca156fd043106b"), 
+    "_class" : "com.shineoxygen.work.admin.model.RolePermission", 
+    "roleId" : "5814cb232418a5aac2a5f1b5", 
+    "permissionId" : "58149e0e2418b918be6029bd"
+}
+{ 
+    "_id" : ObjectId("581a0408c7ca156fd043106c"), 
+    "_class" : "com.shineoxygen.work.admin.model.RolePermission", 
+    "roleId" : "5814cb232418a5aac2a5f1b5", 
+    "permissionId" : "58149e0e2418b918be6029ba"
+}
+{ 
+    "_id" : ObjectId("581a0408c7ca156fd043106d"), 
+    "_class" : "com.shineoxygen.work.admin.model.RolePermission", 
+    "roleId" : "5814cb232418a5aac2a5f1b5", 
+    "permissionId" : "58149e0e2418b918be6029bb"
+}
+{ 
+    "_id" : ObjectId("581a0408c7ca156fd043106e"), 
+    "_class" : "com.shineoxygen.work.admin.model.RolePermission", 
+    "roleId" : "5814cb232418a5aac2a5f1b5", 
+    "permissionId" : "5819f2cac7ca108bd6d8625d"
+}
+{ 
+    "_id" : ObjectId("581a0408c7ca156fd043106f"), 
+    "_class" : "com.shineoxygen.work.admin.model.RolePermission", 
+    "roleId" : "5814cb232418a5aac2a5f1b5", 
+    "permissionId" : "58149e0e2418b918be6029bc"
+}
+{ 
+    "_id" : ObjectId("581a0436c7ca156fd0431070"), 
+    "_class" : "com.shineoxygen.work.admin.model.RolePermission", 
+    "roleId" : "581987adc7ca85d9853f0518", 
+    "permissionId" : "58149e0d2418b918be6029b9"
+}
+{ 
+    "_id" : ObjectId("581a0436c7ca156fd0431071"), 
+    "_class" : "com.shineoxygen.work.admin.model.RolePermission", 
+    "roleId" : "581987adc7ca85d9853f0518", 
+    "permissionId" : "5819f367c7ca108bd6d8625e"
+}
+{ 
+    "_id" : ObjectId("581a044dc7ca156fd0431072"), 
+    "_class" : "com.shineoxygen.work.admin.model.RolePermission", 
+    "roleId" : "5814cb232418a5aac2a5f1b6", 
+    "permissionId" : "58149e0d2418b918be6029b9"
+}

@@ -1,0 +1,25 @@
+{ 
+    "_id" : ObjectId("5814cb232418a5aac2a5f1b5"), 
+    "_class" : "com.shineoxygen.work.admin.model.Role", 
+    "name" : "admin", 
+    "buildin" : false
+}
+{ 
+    "_id" : ObjectId("5814cb232418a5aac2a5f1b6"), 
+    "_class" : "com.shineoxygen.work.admin.model.Role", 
+    "name" : "主页面角色", 
+    "buildin" : false
+}
+{ 
+    "_id" : ObjectId("5819774cc7caf77b73f8fc19"), 
+    "_class" : "com.shineoxygen.work.admin.model.Role", 
+    "name" : "测速", 
+    "buildin" : true, 
+    "deleted" : true
+}
+{ 
+    "_id" : ObjectId("581987adc7ca85d9853f0518"), 
+    "_class" : "com.shineoxygen.work.admin.model.Role", 
+    "name" : "普通管理员", 
+    "buildin" : false
+}

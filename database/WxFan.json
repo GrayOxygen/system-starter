@@ -1,0 +1,170 @@
+{ 
+    "_id" : "oBBmBjgkTJ_kw5cVhQCDTh2p2Itc", 
+    "devCode" : "guangdongweixin", 
+    "img" : "http://wx.qlogo.cn/mmopen/PiajxSqBRaELCPPSxNw0QWQ9DUTwS9vIa7dr5TkXBicTNWb0qfaVy5LSiaiaEr3VJibX78KS5xfxVuRfoWViclw1wInHW7lwrOKNSanmSH0WR5IsE/0", 
+    "city" : "", 
+    "userid" : "55adf8f1e4b005445959dc82", 
+    "ctime" : ISODate("2015-07-22T09:32:18.246+0000"), 
+    "mtime" : ISODate("2015-07-22T09:32:18.247+0000")
+}
+{ 
+    "_id" : "oBBmBjh36hpxxOTzFW2vu12jVwa4", 
+    "devCode" : "guangdongweixin", 
+    "sub" : false, 
+    "img" : "", 
+    "city" : "", 
+    "userid" : "55d55e48e4b00692d2c13180", 
+    "ctime" : ISODate("2015-08-20T08:01:50.425+0000"), 
+    "mtime" : ISODate("2015-08-20T08:01:50.426+0000"), 
+    "mobile" : ""
+}
+{ 
+    "_id" : "oBBmBjiATUr-f_uOhNqgGWL1HRcY", 
+    "devCode" : "guangdongweixin", 
+    "img" : "", 
+    "city" : "", 
+    "userid" : "55af111ae4b01ab3928ec84c", 
+    "ctime" : ISODate("2015-09-29T13:24:22.743+0000"), 
+    "mtime" : ISODate("2015-09-29T13:24:22.747+0000"), 
+    "mobile" : ""
+}
+{ 
+    "_id" : "oBBmBjiI7T6DsQ6Ik3jpWFl2mojk", 
+    "devCode" : "guangdongweixin", 
+    "img" : "http://wx.qlogo.cn/mmopen/dxEty8QyrKSUqcicIOUMosXMdbZAMDuOo9nwodRSczcygnhaEx8vMuVFJHJQeQb6DYmqKxDCclLibLXNrpibfAgOm0YX0cAHAhT/0", 
+    "city" : "6", 
+    "userid" : "55b5ae23e4b0025935f29d98", 
+    "ctime" : ISODate("2015-09-14T09:51:29.535+0000"), 
+    "mtime" : ISODate("2015-09-14T09:51:29.679+0000"), 
+    "mobile" : "O1YxxO1Y1S="
+}
+{ 
+    "_id" : "oBBmBjitwMaRv4lv-2oXKR2dgel8", 
+    "devCode" : "guangdongweixin", 
+    "sub" : false, 
+    "img" : "", 
+    "city" : "", 
+    "userid" : "55d46322e4b032bbed9810e5", 
+    "ctime" : ISODate("2015-08-19T11:19:34.164+0000"), 
+    "mtime" : ISODate("2015-08-19T11:19:34.164+0000"), 
+    "mobile" : ""
+}
+{ 
+    "_id" : "oBBmBjk28344MI0mB0lvW78HAc3c", 
+    "devCode" : "guangdongweixin", 
+    "img" : "", 
+    "city" : "", 
+    "ctime" : ISODate("2015-09-10T02:48:51.480+0000"), 
+    "mtime" : ISODate("2015-09-10T02:48:51.481+0000"), 
+    "mobile" : ""
+}
+{ 
+    "_id" : "oBBmBjkrCBtXX0uUSY-5xR2jC4BQ", 
+    "devCode" : "guangdongweixin", 
+    "img" : "http://wx.qlogo.cn/mmopen/2WLewJv5ia8ts9BaUsb5MBDxxt1SOhdJZuYGmAJF3aqDouibJLMuicmLVRFhvvEDAP8Zyv5QBBSXa5y019l2gfy0ZvVovoiblTib2/0", 
+    "city" : "6", 
+    "userid" : "55d5904ce4b03ca891965afc", 
+    "ctime" : ISODate("2015-08-20T08:44:40.422+0000"), 
+    "mtime" : ISODate("2015-08-20T08:44:40.423+0000"), 
+    "mobile" : "O==jx==dxxx"
+}
+{ 
+    "_id" : "oBBmBjnQ_3Y52PjiWivjcmPepD7c", 
+    "devCode" : "guangdongweixin", 
+    "sub" : false, 
+    "img" : "", 
+    "city" : "", 
+    "userid" : "55adcee0e4b0cd1df75cdbe6", 
+    "ctime" : ISODate("2015-07-21T05:00:58.622+0000"), 
+    "mtime" : ISODate("2015-07-21T05:00:58.623+0000")
+}
+{ 
+    "_id" : "oBBmBjoCvfmrMB6lbU0jFi75gBgE", 
+    "devCode" : "guangdongweixin", 
+    "img" : "http://wx.qlogo.cn/mmopen/jRoggJ2RF3CAY47MTyvjf8zjuV1hBBZT7hMNSqrvI90mBPrWEmGxy2dzJnTKchuG7dVFlwv4UHsJicCgdO6rqIQ/0", 
+    "city" : "5", 
+    "userid" : "55adb473e4b0427e339ab44e", 
+    "ctime" : ISODate("2015-09-11T04:34:06.384+0000"), 
+    "mtime" : ISODate("2015-09-11T04:34:06.427+0000"), 
+    "mobile" : "O1Oxdj1jdOb"
+}
+{ 
+    "_id" : "oBBmBjqfYwV3SmPXIypZAxhw_B7U", 
+    "devCode" : "guangdongweixin", 
+    "img" : "", 
+    "city" : "", 
+    "userid" : "55d464dce4b032bbed9810e6", 
+    "ctime" : ISODate("2015-08-20T09:33:14.942+0000"), 
+    "mtime" : ISODate("2015-08-20T09:33:14.942+0000"), 
+    "mobile" : ""
+}
+{ 
+    "_id" : "oBBmBjrK1q419hJ52-FWt6M6SeSo", 
+    "devCode" : "guangdongweixin", 
+    "img" : "http://wx.qlogo.cn/mmopen/60ruiawxzibMUFbP1D98lnb4Kseeqh38NOlACyvhMXzuYFXAPrBCMSibvaibXiasPOaucBaSkCUzickHkpeUktjs6yoziaGwLHjBKu7/0", 
+    "city" : "6", 
+    "userid" : "55d6de1be4b0ac217fdcfbe1", 
+    "ctime" : ISODate("2015-08-21T08:32:08.841+0000"), 
+    "mtime" : ISODate("2015-08-21T08:32:08.842+0000"), 
+    "mobile" : "O1Yx1c1x=x="
+}
+{ 
+    "_id" : "oBBmBjsRH6jbbqZvnr5N2kUSCk-M", 
+    "devCode" : "guangdongweixin", 
+    "img" : "", 
+    "city" : "", 
+    "userid" : "55adae0ae4b04844a07b9c63", 
+    "ctime" : ISODate("2015-09-16T01:14:29.768+0000"), 
+    "mtime" : ISODate("2015-09-16T01:14:29.770+0000"), 
+    "mobile" : ""
+}
+{ 
+    "_id" : "oBBmBjtkRbOJ1OFRwaJ3zUdb1Xqc", 
+    "devCode" : "guangdongweixin", 
+    "sub" : false, 
+    "img" : "", 
+    "city" : "", 
+    "userid" : "55b5c629e4b0025935f2bd9e", 
+    "ctime" : ISODate("2015-07-27T06:18:27.454+0000"), 
+    "mtime" : ISODate("2015-07-27T06:18:27.454+0000"), 
+    "mobile" : ""
+}
+{ 
+    "_id" : "oBBmBjueMjma9Gxt-633TQBLn0DE", 
+    "devCode" : "guangdongweixin", 
+    "sub" : false, 
+    "img" : "", 
+    "city" : "", 
+    "userid" : "55b5aa37e4b0025935f2985b", 
+    "ctime" : ISODate("2015-08-21T03:12:49.686+0000"), 
+    "mtime" : ISODate("2015-08-21T03:12:49.686+0000"), 
+    "mobile" : ""
+}
+{ 
+    "_id" : "oBBmBjujfoT5zprTlz0BL5Y-pOq8", 
+    "devCode" : "guangdongweixin", 
+    "img" : "", 
+    "city" : "6", 
+    "userid" : "55d58cb6e4b03ca891965af7", 
+    "ctime" : ISODate("2015-08-20T08:15:50.806+0000"), 
+    "mobile" : "O==jx===xSS"
+}
+{ 
+    "_id" : "oBBmBjv8Hu8op6JgklbqKrhCTCAs", 
+    "devCode" : "guangdongweixin", 
+    "img" : "", 
+    "city" : "5", 
+    "userid" : "55d3ed83e4b06502ed3ba164", 
+    "ctime" : ISODate("2015-08-20T09:52:54.393+0000"), 
+    "mtime" : ISODate("2015-08-20T09:52:54.394+0000"), 
+    "mobile" : "O1YxY=Y1Ycj"
+}
+{ 
+    "_id" : "oBBmBjvn0fFEq5cMeOlJQ4dIpFeQ", 
+    "devCode" : "guangdongweixin", 
+    "img" : "http://wx.qlogo.cn/mmopen/jRoggJ2RF3CCBH99afxxg5yNicwB13lx9P0HkKwC6PXiaplKYxsXykQJGFThtBp8tpka0UGNdlYPraPjw5FQbyP0DPqyqkYk3c/0", 
+    "city" : "5", 
+    "userid" : "55d58965e4b03ca891965af0", 
+    "ctime" : ISODate("2015-08-20T08:01:41.126+0000"), 
+    "mobile" : "O==bjjY=1SO"
+}
